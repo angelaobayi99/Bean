@@ -1,0 +1,1 @@
+my bean is fun
